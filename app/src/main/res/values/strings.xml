@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="two_player_label">Two Player</string>
+    <string name="single_player_label">Single Player</string>
+    <string name="two_player_toast">Two Player Button Pushed</string>
+    <string name="single_player_toast">Single Player Button Pushed</string>
+    <string name="player_1_label_O">Player 1 Turn   Mark: O</string>
+    <string name="player_1_label_X">Player 1   Mark: X</string>
+    <string name="player_2_label_O">Player 2 Turn   Mark: O</string>
+    <string name="player_2_label_X">Player 2 Turn   Mark: X</string>
+    <string name="computer_label_O">Computer Turn   Mark: O</string>
+    <string name="computer_label_X">Computer Turn   Mark: X</string>
+    <string name="empty_label" />
+    <string name="your_opponent_turn">Your Opponent Turn</string>
+    <string name="resume_game">Resume Game</string>
+</resources>
